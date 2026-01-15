@@ -1,0 +1,1 @@
+print('SKN 24기 1st Project 6조:)')
